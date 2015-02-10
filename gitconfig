@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = code@haldjas.org
+	name = Auli Kutt
